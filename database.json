@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git:nemaStepper.groovy": [
+      "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
+      "nemaStepper.groovy"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "SimulatePhysics.groovy"
